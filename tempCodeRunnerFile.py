@@ -1,0 +1,1 @@
+nido a MisionTIC 2022, hoy es {fechaactual}, su año de nacimiento es {añodenacimiento} y su edad es {edad} años.")
